@@ -1,0 +1,17 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="css/tag1.css">
+
+</head>
+<body>
+<center><h1>St Huxlery's Community College</h1></center>
+<hr>
+<div class="srikar">
+<div class="sri1">
+<h2>
+<p>Short stories from Panchatantra with pictures, in English. Collection of </p>
+<p>individual stories of Panchatantra with pictures for illustration.</p>
+</body>
+</html>
